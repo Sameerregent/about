@@ -1,13 +1,14 @@
 .one{
     
-    height: 700px;
+    height: 900px;
     background-image: url("https://philerbphotography.com/wp-content/uploads/2016/02/background-i-3.jpg");
 }
 .regent{
-    padding-top: 100px;
+    padding-top: 300px;
     color: white;
-margin-left: 10%;
     font-size: 150px;
+    margin-left: 20%;
+    margin-right: 20%;
     font-family: 'Anton', sans-serif;
 font-family: 'Lobster', cursive;
 font-family: 'M PLUS 1', sans-serif;
