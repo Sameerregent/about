@@ -1,12 +1,12 @@
 .one{
     
-    height: 600px;
+    height: 700px;
     background-image: url("https://philerbphotography.com/wp-content/uploads/2016/02/background-i-3.jpg");
 }
 .regent{
     padding-top: 100px;
     color: white;
-    margin-left: 30%;
+    margin-left: 20%;
     font-size: 150px;
     font-family: 'Anton', sans-serif;
 font-family: 'Lobster', cursive;
@@ -20,7 +20,7 @@ font-family: 'Praise', cursive;
 font-family: 'Sacramento', cursive;
 }
 .developer{
-    margin-left: 40%;
+    margin-left: 30%;
   font-size: 50px;
   color: white;
 
