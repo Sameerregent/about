@@ -1,14 +1,13 @@
 .one{
     
-    height: 900px;
+    height: 750px;
     background-image: url("https://philerbphotography.com/wp-content/uploads/2016/02/background-i-3.jpg");
 }
 .regent{
-    padding-top: 300px;
+    padding-top: 200px;
     color: white;
     font-size: 150px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
     font-family: 'Anton', sans-serif;
 font-family: 'Lobster', cursive;
 font-family: 'M PLUS 1', sans-serif;
@@ -21,7 +20,7 @@ font-family: 'Praise', cursive;
 font-family: 'Sacramento', cursive;
 }
 .developer{
-    margin-left: 30%;
+    margin-left: 35%;
   font-size: 50px;
   color: white;
 
@@ -62,11 +61,14 @@ font-family: 'Sacramento', cursive;
    font-size: 30px;
 }
 .thirddiv{
-    height: 500px;
-    background-color: thistle;
+    margin-top: 50px;
+    height: 700px;
 }
 .container{
     padding-top: 100px;
+}
+.seccon{
+    padding-top: 150px;
 }
 .skill{
 background-color: whitesmoke;
@@ -89,10 +91,73 @@ background-color: whitesmoke;
     height: 100px;
 }
 .fourthdiv{
-    background-color: whitesmoke;
-  height: 500px; 
+    background-color: #1F1D3D;
+  height: 680px; 
   margin-left: 0;
 }
 .fifthdiv{
     text-align: center;
+}
+.why{
+    padding-top: 50px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    font-family: apercu, sans-serif;
+}
+.free{
+    text-align: center;
+}
+.pro{
+    text-align: center;
+}
+.prem{
+    text-align: center;
+}
+.card{
+height: 300px;
+}
+.sec{
+    height: 600px;
+    background-color: aqua;
+}
+.port{
+    margin-top: 50px;
+    text-align: center;
+}
+.myport{
+    margin-left: 40%;
+    padding-top: 100px;
+}
+.imgsec{
+    height: 200px;
+    margin-left: 45%;
+    padding-top: 100px;
+}
+.reg{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.third{
+    height: 600px;
+    background-color:azure;
+}
+.dream{
+    margin-top: 50px;
+    text-align: center;
+}
+.mydream{
+    margin-left: 40%;
+    padding-top: 100px;
+}
+.imgthird{
+    height: 200px;
+    margin-left: 45%;
+    padding-top: 100px;
+}
+.samr{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;   
 }
